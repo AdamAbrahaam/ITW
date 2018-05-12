@@ -6,9 +6,9 @@ stránku itw_p1.html a související obrázky.</li>
 <li>Vytvořte stylový předpis <strong>itw1.css</strong> v jazyce CSS tak, aby
 výsledný vzhled dokumentu odpovídal následujícímu návrhu ve formě obrázku:
 	<ol>
-	<li><a href="itw1_wide.png">široké okno</a></li>
-	<li><a href="itw1_normal.png">normální okno prohlížeče</a></li>
-	<li><a href="itw1_narrow.png">užší okno</a></li>
+	<li><a href="https://www.fit.vutbr.cz/study/courses/ITW/private/cviceni/projekt1/itw1_wide.png">široké okno</a></li>
+	<li><a href="https://www.fit.vutbr.cz/study/courses/ITW/private/cviceni/projekt1/itw1_normal.png">normální okno prohlížeče</a></li>
+	<li><a href="https://www.fit.vutbr.cz/study/courses/ITW/private/cviceni/projekt1/itw1_narrow.png">užší okno</a></li>
 	</ol>
 	(Některé prohlížeče zobrazují obrázky zmenšené, případně kolem nich zobrazují bílé místo. Ujistěte se prosím, že vidíte obrázek v plné velikosti a případné bílé místo kolem něj ignorujte.)
 </li>
