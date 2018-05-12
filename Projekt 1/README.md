@@ -1,7 +1,7 @@
 <h2>Zadání projektu 1</h2>
 
 <ul>
-<li>Stáhněte si balík <a href="itw_p1.zip">itw_p1.zip</a> a rozbalte na disk. Balík obsahuje
+<li>Stáhněte si balík <a href="https://www.fit.vutbr.cz/study/courses/ITW/private/cviceni/projekt1/itw_p1.zip">itw_p1.zip</a> a rozbalte na disk. Balík obsahuje
 stránku itw_p1.html a související obrázky.</li>
 <li>Vytvořte stylový předpis <strong>itw1.css</strong> v jazyce CSS tak, aby
 výsledný vzhled dokumentu odpovídal následujícímu návrhu ve formě obrázku:
