@@ -1,5 +1,6 @@
 <h2>Zadání projektu č. 2</h2>
 <p>Vytvořte stránky pro imaginární zařízení v jedné z následujících oblastí podle vlastního uvážení:</p>
+<p>Body: 29/30 (Chybí popisky u obrázků (atribut alt). (-1))</p>
 <ul>
 <li>Stavební firma</li>
 <li>Realitní kancelář</li>
